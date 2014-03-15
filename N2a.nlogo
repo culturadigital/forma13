@@ -1,10 +1,8 @@
 extensions [rnd]
 
-
 ;;;;;;;;;;;;;;;;;;;;;;;
 ;;;      AGENTES    ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;
-
 
 breed [productos producto]
 breed [consumidores consumidor]
