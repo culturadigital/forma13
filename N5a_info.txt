@@ -1,0 +1,40 @@
+N5A. RESIDENTIAL SETTLEMENT OF THE POPULATION AT
+SUB REGIONAL SCALE
+Author:
+Carolina de Carvalho Cantergiani - Universidad de Alcalá
+Collaborators:
+César Vergara Martín
+Antonia Chávez González
+Javier Fernández López
+José Manuel Calahorro Gómez
+Luis Pardillo Caballero
+Brief: The Community of Madrid (CM) is strategically placed in Spain and functionally
+important since it concentrates the transport network main connections, important
+industrial activities and central administrative services, among others. It results to be
+very active demographically, producing important territorial changes, confirmed by
+urban and potential urban land growth statistics, for example. The study area is an
+important urban-industrial corridor that connects the megalopolis of Madrid and
+Barcelona, named Corredor del Henares within 18 municipalities.
+This area has been historically characterized as population and productive activities
+attractor during periods of decentralization of Madrid and other neighbor municipalities.
+It can be considered a potential area for urban growth analysis and simulation due to
+its important demographic growth and land use dynamics. And moreover, those results
+are also important for being useful for planning and territorial management of its
+territory.
+Analyzing the dynamics of the study area, the three selected agents we consider
+influence its urban growth are: population, real estate agents and urban planners. They
+simultaneously induce this phenomenon through their own behavior, stimulating the
+creation of new urban settlements.
+The three agents' behaviors do not compete for the same goal; instead they are re-feed
+according to each other action. It means that the planners assign new urban areas
+(having into account the still not-urban areas); the real estate agents look for available
+places to build new residence on previously classified urban areas; and finally the
+population consider the offer of new and empty housing to choose new residences.
+The challenge in the model presented in this document is to simulate the residence
+election of the population that finally decides to move. Three groups of population are
+considered according to their behavior, defined in function of their economic status
+(high, medium and low income), that is supposed to be the most important factor that
+induces residential changes.
+Key question: How urban growth at Corredor del Henares (Madrid) can be understood
+and represented through the behavior of groups of population with different economic
+status in respect to their residential choices?
