@@ -1,0 +1,17 @@
+N2B. THE VALUE CREATION FRAMEWORK
+Author:
+Luisa Nenci - SustainValues
+Collaborators:
+Teodoro González Manchón
+Brief: The Value Creation Framework (Perrini, 2006) helps companies and the
+investment community to better understand how a more inclusive stakeholder-oriented
+governance systems positively affects corporate performance. While firms values,
+belief and activities have been already identified and classified into drivers, influencer
+and influenced, variables specification their interaction mechanisms and rules have not
+been evaluated yet.
+A simplified NetLogo model has been built to frame and analyse company's policy and
+related actions on people values and consequential corporate performances impacts.
+Satisfaction has been chosen as the main variable including in calculation: salary,
+mobility and training variation, training and satisfaction variation against average.
+Key question: With which level of decreasing satisfaction a talented worker will leave
+the enterprise?
