@@ -1,0 +1,23 @@
+N1. BIRTH AND DEATH MASTER EQUATION FOR THE
+EVOLUTION OF COMPLEX NETWORKS
+Author:
+Federico cruz Ponce de León - Universidad Nacional Autónoma de México
+Collaborators:
+Francisco Javier Borrego Cejudo
+José Garrido García
+Andrés Borrallo González
+Samuel Martín Arenas
+Brief:
+d(k) = ?1 (C1 + k) (N1 k)
+b(k)= ?2 (C2 + k) (N2 k)
+These two equations define probabilities for a certain node k in a network: the first is
+the probability b(k) for the node k to delete one of its links, while the second is the
+probability d(k) of the node to give birth to a new link. The higher the degree of the
+node, the more likely it is that it will be chosen for the deletion or creation of a link.
+The rest of the variables are defined by the observer with certain restrictions to keep
+the network within certain limits. The proposal is to create a program similar to the one
+in the NetLogo Model Library called "Preferential Attachment", where the probability
+that a node will be connected to a newly created node is directly proportional to its
+degree, but using the link variable.
+Key question: How does a network evolve (in discrete time) using variable probability
+for the creation and deletion of links?
