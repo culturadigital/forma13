@@ -1,0 +1,39 @@
+N3. CHANGES IN PERSONAL NETWORKS DURING ECOLOGICAL
+TRANSITIONS
+Authors:
+Isidro Maya Jariego - Universidad de Sevilla
+Carla Andreia Carvalho Gómez - Universidad de Sevilla
+Cristina Varo Martín - Universidad de Sevilla
+Collaborators:
+Pedro Almagro Blanco
+Lorena Avalos Rodríguez
+Mónica Rueda García
+Pablo Osuna Pérez
+Natividad González Blanco
+Brief: The changes experienced by the personal networks of High School students
+when they start to study at the University are described. A group of students from
+Alcala de Guadaira enters in a metropolitan way of life when they start to study in
+Seville, as they start to commute almost everyday between the city where they reside
+and the city where they study (separated by 15 kilometers). The relationship between
+the changes experienced in the composition and the structure of the personal
+networks are examined. We are also interested in evaluating how the changes in the
+personal network of each student is related to the connection they have with the cohort
+of students experiencing the same educational transition.
+Parameters:
+1. Representing the process of changes in the personal network after incorporating to
+the university.
+H1: Inverse relationship between level of heterogeneity (composition) and the
+structural cohesion of the network (structure).
+H2: Competence between active multiplex relationships (there is a limit in the
+number of multiplex relationships an individual could maintain simultaneously).
+H3: Graphic summary of the personal networks.
+2. Classification of the personal networks regarding (a) percentage of alteri from the
+city where they reside, (b) multiplexity (and distribution/connectivity of multiplex links),
+(c) structure of the personal network.
+3. Define the probabilities of desconection from the whole network depending on the
+type of personal network of each individual, in order to study the disagregation process
+of the whole network.
+Key question: How are the changes in the composition of the personal network
+related to the structure of the personal network? Which types of personal networks
+may be identified? How the type of personal network is related to the position each
+invidual occupy in the whole network of High School students living the transition?
