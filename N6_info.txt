@@ -1,0 +1,62 @@
+N6. MICROBIAL POPULATIONS WITHIN A BIOREACTOR
+OPERATING WITH DIFFERENT PROTOCOLS
+Authors:
+Pablo Araujo Granda - Polytechnic University of Catalonia
+Marta Ginovart Gisbert - Polytechnic University of Catalonia
+Collaborators:
+Francisco Romero Campero
+Yago Fernando Rodríguez
+Raúl García Bravo
+Carolina Caballero López
+Javier Atoche Ortega
+Francisco M. Romero Romero
+Brief: Biotechnology experimentation in the laboratory with microorganisms is not
+always viable, involves a series of constraints such as: cost, time, safety, security,
+equipment, sterility and others. These tasks could be managed with the virtual
+experimentation. The use of a virtual bioreactor would facilitate the understanding of
+the real system favoring final handling.
+People in different training courses seek to respond a series of questions, such as:
+what is a bioreactor? Could I handle a bioreactor? What happens within a bioreactor?
+Which behavior has a population of microorganisms within a bioreactor?
+The answers could be obtained using a simulated complex system (virtual bioreactor),
+which facilitates the analysis of the behavior and response of different populations of
+microorganisms in different conditions of culture medium that can be controlled by the
+observer.
+The choice of a basic approach to study microbial system, either at the level of
+population (usually continuous with differential equations) or based on the individual
+(discrete and computational model) is an important decision that should be taken
+depending on the project, the system characteristics, the problem to study and
+assumptions when the continuum is not applicable.
+Individuals based Models (IbMs) deal with individuals (live actors) as discrete
+autonomous entities. These individuals have particular characteristics that change
+according to the biological actions of its own behavior, interactions with others and the
+environment.
+Population-level approaches are mainly used for prediction purposes, due to its
+simplicity and efficiency computational, and they are widely used. The IbMs power is
+the features offered to interpret, understand and investigate the dynamics of living
+systems. Allow us to treat the intrinsic variability of all living being, with the emergence
+of the population behavior from the actions and interactions at the individual level.
+The main objective is to develop a microbial bioreactor simulator, which is easy to
+understand, and that it could be adapted to specific applications and useful for people
+on the life sciences field.
+Parameters: the system will be a virtual bioreactor operating with different protocols
+(batch or continuous culture), which will contain initial amounts of nutrients, a number
+of viable microorganisms, who will adapt to the environment that they are, because
+they consume nutrients and generate end products, maintaining they viability over the
+time.
+Agent (micro-organism) variables:
+a. Position in space (XY coordinates)
+b. Biomass
+c. Maintenance requirements
+d. Reproduction biomass
+e. Reproduction time
+The environment variables (culture medium):
+a. Nutrient concentrations
+b. Product concentrations
+System variables:
+a. Nutrient input flow.
+b. Culture medium output flow
+c. Dilution ratio
+d. Operation time
+Key question: Is it possible to simulate the behavior of a microbial population in
+different conditions within a bioreactor?
