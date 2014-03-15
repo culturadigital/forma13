@@ -1,0 +1,17 @@
+N2A. MODELLING CONSUMER BEHAVIOUR AND MARKETING
+ACTIONS
+Authors:
+Manuel Chica Serrano - European Centre for Soft Computing
+Oscar Cordón García - Universidad de Granada
+Collaborators:
+Juan Galán Páez
+Mercedes Gómez de la Rosa
+Lurdes Caleya Ortiz
+David Solís Martín
+Brief: The goal of the case is to study and model the consumer behaviour when
+choosing and buying different products of a specific market. The behaviour of good
+companies are also modelled by applying dyanmic marketing actions when sales
+change. These actions will try to maximize their sales in the competitive market of the
+model.
+Key question: What are the sales of our product in the market and how do our
+marketing actions affect my sales?
